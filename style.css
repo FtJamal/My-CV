@@ -1,0 +1,15 @@
+#top{background-color: rgba(232, 175, 194, 0.842);}
+#header{background-color:rgb(197, 186, 171);}
+h1{color: aliceblue;}
+address{color: palevioletred;}
+.one {background-color: azure;}
+.two {background-color: rgb(246, 234, 234);}
+h2{color: palevioletred;}
+ul{color:gray;}
+div p {color:gray;}
+
+
+div{
+    padding: 0%;
+    margin: 0%;
+}
